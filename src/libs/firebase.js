@@ -1,5 +1,5 @@
-const { initializeApp } = require('firebase-admin/app');
+// const { initializeApp } = require('firebase-admin/app');
 
-const app = initializeApp()
+// const app = initializeApp()
 
-module.exports = app
+// module.exports = app
